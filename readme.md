@@ -39,4 +39,4 @@ repos:
 Das pre-commit wird nun automatisch auf git commit laufen. :D
 
 ## Aufgabe 4
-Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+Auf Azure muss man auf `Konfiguration` navigieren. Dann muss man auf `Anwendungseinstellung hinzufügen` klicken und dort den Benutzernamen, also in diesem Fall `PASSWORD` und das Password im anderen Feld eingeben. Nun kann man dies speichern und aktualisieren.
