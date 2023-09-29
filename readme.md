@@ -38,6 +38,8 @@ repos:
    - im cmd `pre-commit install` einfügen und ausführen, um die git hook scipts zu installieren
 Das pre-commit wird nun automatisch auf git commit laufen. :D
 
+Wenn man Änderungen nun speichern will, kann man zur Konsole gehen, zum directory des Repositories (also `cd C:\Users\...`) und dort dann `git commit` oder `git push` oder `git pull` eingeben. (Kommt drauf an was man machen will) Wenn man dies gemacht hat, dann wird der Code getestet und wenn er läuft, auch hochgeladen.
+
 ## Aufgabe 4
 niklausandrealb-324.azurewebsites.net
 
