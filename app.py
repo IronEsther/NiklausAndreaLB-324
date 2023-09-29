@@ -52,10 +52,5 @@ def add_entry():
     return redirect(url_for('index'))
 
 
-<<<<<<< HEAD
-if __name__ == "_main_":
-    app.run(host="0.0.0.0")
-=======
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=8000)
->>>>>>> feature
