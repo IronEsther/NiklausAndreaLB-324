@@ -39,4 +39,6 @@ repos:
 Das pre-commit wird nun automatisch auf git commit laufen. :D
 
 ## Aufgabe 4
+[Link zur laufenden Applikation](niklausandrealb-324.azurewebsites.net)
+
 Auf Azure muss man auf `Konfiguration` navigieren. Dann muss man auf `Anwendungseinstellung hinzufügen` klicken und dort den Benutzernamen, also in diesem Fall `PASSWORD` und das Password im anderen Feld eingeben. Nun kann man dies speichern und aktualisieren.
